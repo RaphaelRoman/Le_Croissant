@@ -5,15 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Z:/Kaleb-Animation_23/winter_23/programming_4_artists/Unreal/Le_Croissant/Le_Croissant/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"Z:/Kaleb-Animation_23/winter_23/programming_4_artists/Unreal/Le_Croissant/Le_Croissant/Content/StarterContent/Audio/Collapse01.uasset",
+				"Z:/Kaleb-Animation_23/winter_23/programming_4_artists/Unreal/Le_Croissant/Le_Croissant/Content/Le_Croissant/test_blueprint.uasset",
+				"Z:/Kaleb-Animation_23/winter_23/programming_4_artists/Unreal/Le_Croissant/Le_Croissant/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YR/R04P9O12CREO13S34YYHL3.uasset",
 				"Z:/Sophomore Year/Programming for Artists/git_repositories/Le_Croissant/Le_Croissant/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"Z:/Sophomore Year/Programming for Artists/git_repositories/Le_Croissant/Le_Croissant/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"Z:/Sophomore Year/Programming for Artists/git_repositories/Le_Croissant/Le_Croissant/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"Z:/Sophomore Year/Programming for Artists/git_repositories/Le_Croissant/Le_Croissant/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"Z:/Sophomore Year/Programming for Artists/git_repositories/Le_Croissant/Le_Croissant/Content/Le_Croissant/test_blueprint.uasset",
-				"Z:/Sophomore Year/Programming for Artists/git_repositories/Le_Croissant/Le_Croissant/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YR/R04P9O12CREO13S34YYHL3.uasset",
-				"Z:/Kaleb-Animation_23/winter_23/programming_4_artists/Unreal/Le_Croissant/Le_Croissant/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"Z:/Kaleb-Animation_23/winter_23/programming_4_artists/Unreal/Le_Croissant/Le_Croissant/Content/StarterContent/Audio/Collapse01.uasset",
-				"Z:/Kaleb-Animation_23/winter_23/programming_4_artists/Unreal/Le_Croissant/Le_Croissant/Content/Le_Croissant/test_blueprint.uasset"
+				"Z:/Sophomore Year/Programming for Artists/git_repositories/Le_Croissant/Le_Croissant/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YR/R04P9O12CREO13S34YYHL3.uasset"
 			]
 		}
 	]

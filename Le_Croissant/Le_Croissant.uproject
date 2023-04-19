@@ -5,14 +5,15 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
+			"Name": "MultiUserClient",
+			"Enabled": true
 		},
 		{
-			"Name": "MultiUserClient",
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		}
 	]
